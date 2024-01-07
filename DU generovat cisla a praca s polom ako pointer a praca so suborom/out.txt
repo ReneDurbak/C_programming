@@ -1,0 +1,22 @@
+1.cislo: 55
+2.cislo: 118
+3.cislo: 50
+4.cislo: 42
+5.cislo: 52
+6.cislo: 42
+7.cislo: 78
+8.cislo: 88
+9.cislo: 114
+10.cislo: 116
+11.cislo: 130
+12.cislo: 58
+13.cislo: 111
+14.cislo: 49
+15.cislo: 40
+16.cislo: 46
+17.cislo: 107
+18.cislo: 40
+19.cislo: 119
+20.cislo: 89
+
+Najvacsi prvok je: 130

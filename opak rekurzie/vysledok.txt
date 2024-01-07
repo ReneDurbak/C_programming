@@ -1,0 +1,6 @@
+
+2 na 3 je 8
+5 na 2 je 25
+4 na 1 je 4
+-6 na 2 je 36
+5 na 0 je 1

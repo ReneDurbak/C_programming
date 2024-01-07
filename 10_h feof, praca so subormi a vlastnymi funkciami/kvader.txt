@@ -1,0 +1,1 @@
+ a = 5  b= 5  c= 9 Sp = 25 V = 225 S = 230 Uhlopriecka = 7 Telesova uhlopriecka = 11   
